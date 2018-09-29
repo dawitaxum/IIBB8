@@ -1,3 +1,3 @@
 hello form the desktop!
 okay here we change the repo from the git and lets see if it show up on our local right?
-now you see we change it form the repo and we added it to the local repo by just using pull command.
+now you see we change it form the repo and we added it to the local repo by just using pull command.Yeah you right it shows that we did it just now. good now lets try to do it to the second branch like somebody else do some change to the second branch and we can either merge or keep it as it is!c
